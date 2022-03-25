@@ -1,5 +1,5 @@
 
-Privacy Policy
+# Privacy Policy
 
 Last updated: March 25, 2022
 
@@ -128,7 +128,7 @@ The Company may disclose Your Personal Data in the good faith belief that such a
     Protect the personal safety of Users of the Service or the public
     Protect against legal liability
 
-Security of Your Personal Data
+## Security of Your Personal Data
 
 The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.
 Children's Privacy
